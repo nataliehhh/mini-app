@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npm install && vite build",
-    "dev": "vite"
+    "build": "npm install && vide build",
+    "dev": "vide"
   },
   "keywords": [],
   "author": "",
