@@ -1,0 +1,17 @@
+body {
+    width: 100wv;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+    color: white;
+    font-family: monospace;
+}
+
+p {
+    color: white;
+    font-family: monospace;
+    padding: 1rem;
+}
